@@ -74,12 +74,12 @@ body {
   flex-direction: column;
 }
 
-/*
 .row {
   list-style: none;
   display: flex;
 }
 
+/*
 li {
   height: 3em;
   width: 3em;
