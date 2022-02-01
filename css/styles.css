@@ -130,12 +130,11 @@ li {
   border: 2px solid coral;
 }
 
-/*
 .ring.selected {
   color: coral;
 }
 
-.middle {
+/*.middle {
   background-color: darkorange;
   border: 2px solid darkorange;
 }
