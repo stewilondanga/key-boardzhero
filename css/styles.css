@@ -9,13 +9,13 @@ body {
   height: 100vh;
 }
 
-/*.fa:hover {
-    opacity: 0.7;
-    padding-left: 10px;
-    background-color: white;
+.fa:hover {
+  opacity: 0.7;
+  padding-left: 10px;
+  background-color: white;
 }
 
-.fa-github{
+/*.fa-github{
   background: #3B5998;
   color: #150112;
 }
