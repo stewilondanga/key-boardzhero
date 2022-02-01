@@ -172,12 +172,12 @@ li {
   animation: vibrate-1 0.3s linear infinite both;
 }
 
-/*.hit {
-	-webkit-animation: hit 0.3s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-	        animation: hit 0.3s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+.hit {
+  -webkit-animation: hit 0.3s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+  animation: hit 0.3s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
-@-webkit-keyframes hit {
+/*@-webkit-keyframes hit {
   0% {
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
