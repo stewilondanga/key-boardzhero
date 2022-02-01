@@ -116,12 +116,12 @@ li {
   width: 5em;
 }
 
-/*
 .pinky {
   background-color: crimson;
   border: 2px solid crimson;
 }
-.pinky.selected {
+
+/*.pinky.selected {
   color: crimson;
 }
 
