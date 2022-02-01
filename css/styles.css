@@ -166,14 +166,13 @@ li {
   border: 2px solid slategrey;
 }
 
-/*.selected {
+.selected {
   background-color: transparent;
-  	-webkit-animation: vibrate-1 0.3s linear infinite both;
-	        animation: vibrate-1 0.3s linear infinite both;
+  -webkit-animation: vibrate-1 0.3s linear infinite both;
+  animation: vibrate-1 0.3s linear infinite both;
 }
 
-
-.hit {
+/*.hit {
 	-webkit-animation: hit 0.3s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 	        animation: hit 0.3s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
