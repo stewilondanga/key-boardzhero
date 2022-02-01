@@ -121,10 +121,11 @@ li {
   border: 2px solid crimson;
 }
 
-/*.pinky.selected {
+.pinky.selected {
   color: crimson;
 }
 
+/*
 .ring {
   background-color: coral;
   border: 2px solid coral;
