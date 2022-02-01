@@ -125,11 +125,12 @@ li {
   color: crimson;
 }
 
-/*
 .ring {
   background-color: coral;
   border: 2px solid coral;
 }
+
+/*
 .ring.selected {
   color: coral;
 }
