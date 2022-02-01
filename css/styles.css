@@ -152,11 +152,12 @@ li {
   color: gold;
 }
 
-/*.pointer2nd {
+.pointer2nd {
   background-color: khaki;
   border: 2px solid khaki;
 }
-.pointer2nd.selected {
+
+/*.pointer2nd.selected {
   color: khaki;
 }
 
