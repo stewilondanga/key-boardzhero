@@ -69,12 +69,12 @@ body {
   letter-spacing: 0.3em;
 }
 
-/*
 .keyboard {
   display: flex;
   flex-direction: column;
 }
 
+/*
 .row {
   list-style: none;
   display: flex;
