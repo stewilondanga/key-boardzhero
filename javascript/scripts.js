@@ -23,7 +23,7 @@ function targetRandomKey() {
 function getTimestamp() {
   return Math.floor(Date.now() / 1000)
 }
-/*
+
 document.addEventListener("keyup", event => {
   const keyPressed = String.fromCharCode(event.keyCode);
   const keyElement = document.getElementById(keyPressed);
@@ -43,5 +43,5 @@ document.addEventListener("keyup", event => {
   }
 });
 
-targetRandomKey();
-*/
+/*targetRandomKey();
+ */
