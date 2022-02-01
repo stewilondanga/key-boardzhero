@@ -1,7 +1,7 @@
 const keys = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
-/*
-const timestamps = [];
 
+const timestamps = [];
+/*
 timestamps.unshift(getTimestamp());
 
 function getRandomNumber(min, max) {
