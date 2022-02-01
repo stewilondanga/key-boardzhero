@@ -139,11 +139,11 @@ li {
   border: 2px solid darkorange;
 }
 
-/*.middle.selected {
+.middle.selected {
   color: darkorange;
 }
 
-.pointer1st {
+/*.pointer1st {
   background-color: gold;
   border: 2px solid gold;
 }
