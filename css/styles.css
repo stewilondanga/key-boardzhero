@@ -157,11 +157,11 @@ li {
   border: 2px solid khaki;
 }
 
-/*.pointer2nd.selected {
+.pointer2nd.selected {
   color: khaki;
 }
 
-.fill-out-key {
+/*.fill-out-key {
   background-color: slategrey;
   border: 2px solid slategrey;
 }
