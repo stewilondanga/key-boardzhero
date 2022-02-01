@@ -9,12 +9,12 @@ function getRandomNumber(min, max) {
   max = Math.floor(max);
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
-/*
+
 function getRandomKey() {
-  return keys[getRandomNumber(0, keys.length-1)];
+  return keys[getRandomNumber(0, keys.length - 1)];
 }
 
-function targetRandomKey() {
+/*function targetRandomKey() {
   const key = document.getElementById(getRandomKey());
   key.classList.add("selected");
   let start = Date.now();
