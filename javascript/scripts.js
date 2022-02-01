@@ -1,5 +1,5 @@
-/*const keys = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
-
+const keys = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
+/*
 const timestamps = [];
 
 timestamps.unshift(getTimestamp());
