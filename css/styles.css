@@ -1,3 +1,14 @@
+body {
+  background-color: black;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 /*.fa:hover {
     opacity: 0.7;
     padding-left: 10px;
@@ -48,16 +59,6 @@
   color: #150112;
 }
 
-body {
-  background-color: black;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 500;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
 
 .title {
   color: mintcream;
