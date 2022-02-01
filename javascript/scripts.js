@@ -14,13 +14,13 @@ function getRandomKey() {
   return keys[getRandomNumber(0, keys.length - 1)];
 }
 
-/*function targetRandomKey() {
+function targetRandomKey() {
   const key = document.getElementById(getRandomKey());
   key.classList.add("selected");
   let start = Date.now();
 }
 
-function getTimestamp() {
+/*function getTimestamp() {
   return Math.floor(Date.now() / 1000)
 }
 
