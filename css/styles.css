@@ -148,11 +148,11 @@ li {
   border: 2px solid gold;
 }
 
-/*.pointer1st.selected {
+.pointer1st.selected {
   color: gold;
 }
 
-.pointer2nd {
+/*.pointer2nd {
   background-color: khaki;
   border: 2px solid khaki;
 }
